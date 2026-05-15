@@ -9,7 +9,7 @@ metadata:
     github.com/project-slug: BackstageSSPPoC/DSSP-TargetNode-1
     backstage.io/techdocs-ref: dir:.
     jenkins.io/job-full-name: Backstage_SSP_PoC/DSSP-TargetNode-1/main
-    argocd/app-name: dssp-targetnode-1-qat
+    argocd/app-name: dssp-targetnode-1-prod
     backstage.io/kubernetes-id: DSSP-TargetNode-1
     sonarqube.org/project-key: dssp-targetnode-1
 
